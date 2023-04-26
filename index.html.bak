@@ -86,9 +86,8 @@
         <!-- row -->
         <div class="row justify-content-between align-items-center">
           <div class="col-md-6">
-            <div class="img-wrapper">
-              <div class="after"></div>
-              <img src="assets/imgs/img-1.jpg" class="w-100" alt="About Us"> </div>
+            <div class="img-wrapper"> <img src="assets/imgs/img-1.jpg" class="w-100"
+                alt="About Us"> </div>
           </div>
           <div class="col-md-5">
             <h6 class="title mb-3">Serving community by providing music
@@ -109,9 +108,8 @@
               inspiring music education.</h6>
             <button class="btn btn-outline-primary btn-sm">Learn More</button> </div>
           <div class="col-md-6">
-            <div class="img-wrapper">
-              <div class="after right"></div>
-              <img src="assets/imgs/img-2.jpg" class="w-100" alt="About Us"> </div>
+            <div class="img-wrapper"> <img src="assets/imgs/img-2.jpg" class="w-100"
+                alt="About Us"> </div>
           </div>
         </div>
         <!-- End of Row --> </div>
@@ -124,9 +122,8 @@
         <!-- Row -->
         <div class="row justify-content-between align-items-center">
           <div class="col-md-6">
-            <div class="img-wrapper">
-              <div class="after"></div>
-              <img src="assets/imgs/img-3.jpg" class="w-100" alt="About us"> </div>
+            <div class="img-wrapper"> <img src="assets/imgs/img-3.jpg" class="w-100"
+                alt="About us"> </div>
           </div>
           <div class="col-md-5">
             <h6 class="title mb-3">Developing student leadership through
@@ -189,7 +186,7 @@
       <div class="container">
         <h1>RECRUITING</h1>
         <p>We are actively recruiting</p>
-        <p><img src="assets/imgs/recruiting.jpg" class="w-100" alt="About Us" style="width: 1171px; height: 363px;"></p>
+        <p><img src="assets/imgs/recruiting.jpg" class="w-100" alt="About Us" style="width: 1110px; height: 536px;"></p>
         <div class="row justify-content-between align-items-center">
           <div class="col-md-6">
             <div class="img-wrapper"> <br>
